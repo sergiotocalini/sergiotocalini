@@ -1,17 +1,17 @@
+
 <p align='center'>
   <a href="https://sergiotocalini.github.io">
     <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Webiste">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/sergiotocalini">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/sergiotocalinijoerg">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
----
-
+#
 ### Hi there, I'm Sergio 👋
 
 <!--
@@ -29,10 +29,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='center'>
-  
+ 
 ![sergiotocalini’s github stats](https://github-readme-stats.vercel.app/api?username=sergiotocalini&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
-
-</p>
-
-
