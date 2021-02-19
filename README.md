@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
  
 ![sergiotocalini’s github stats](https://github-readme-stats.vercel.app/api?username=sergiotocalini&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
+![sergiotocalini's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotocalini&layout=compact&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
