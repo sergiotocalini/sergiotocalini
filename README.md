@@ -1,3 +1,17 @@
+<p align='center'>
+  <a href="https://sergiotocalini.github.io">
+    <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Webiste">
+  </a>
+  <a href="https://twitter.com/sergiotocalini">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
+  </a>
+  <a href="https://linkedin.com/in/sergiotocalinijoerg">
+    <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
 ### Hi there, I'm Sergio 👋
 
 <!--
@@ -15,14 +29,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align='center'>
+  
 ![sergiotocalini’s github stats](https://github-readme-stats.vercel.app/api?username=sergiotocalini&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true)
 
-### Connect with me
+</p>
 
-[<img align="left" alt="Website"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://sergiotocalini.github.io
-[twitter]: https://twitter.com/sergiotocalini
-[linkedin]: https://linkedin.com/in/sergiotocalinijoerg
