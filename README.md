@@ -1,12 +1,12 @@
 
 <p align='center'>
-  <a href="https://sergiotocalini.github.io" style="text-decoration: none;">
+  <a style="text-decoration: none" href="https://sergiotocalini.github.io">
     <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Webiste">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/sergiotocalini" style="text-decoration: none;">
+  <a style="text-decoration: none" href="https://twitter.com/sergiotocalini">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/sergiotocalinijoerg" style="text-decoration: none;">
+  <a style="text-decoration: none" href="https://linkedin.com/in/sergiotocalinijoerg">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
   </a>&nbsp;&nbsp;
 </p>
