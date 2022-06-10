@@ -19,11 +19,13 @@
 - 📫 How to reach me: **sergiotocalini@gmail.com**
 - 😄 Pronouns: **he/him/his**
 
-<img style="display:block;margin-left:auto;margin-right:auto;width:50%;"
+<img style="display:block;margin-left:auto;margin-right:auto;max-width:50%;"
 	 src="/assets/img/developer.gif" alt="Developer" /> 
 
 <div>
   <a href="https://github.com/sergiotocalini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiotocalini&count_private=true&show_icons=true&hide_title=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotocalini&layout=compact&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&langs_count=5"/>
+  <img style="max-width:49%"
+       src="https://github-readme-stats.vercel.app/api?username=sergiotocalini&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&"/>
+  <img style="max-width:49%"
+	   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiotocalini&layout=compact&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&langs_count=5"/>
 </div>
