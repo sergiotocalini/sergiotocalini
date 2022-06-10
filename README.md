@@ -19,8 +19,10 @@
 - 📫 How to reach me: **sergiotocalini@gmail.com**
 - 😄 Pronouns: **he/him/his**
 
-<img width="50%" style="display:block;margin-left:auto;margin-right:auto;"
-	 src="/assets/img/developer.gif" alt="Developer" /> 
+<p align='center'>
+	<img width="50%" style="display:block;margin-left:auto;margin-right:auto;"
+		 src="/assets/img/developer.gif" alt="Developer" /> 
+</p>
 
 <div>
   <a href="https://github.com/sergiotocalini">
