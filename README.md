@@ -1,14 +1,20 @@
 
+
 <p align='center'>
-  <a style="text-decoration: none" href="https://sergiotocalini.github.io">
+  <a href="https://sergiotocalini.github.io" style="text-decoration:none">
     <img width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Webiste">
   </a>&nbsp;&nbsp;
-  <a style="text-decoration: none" href="https://twitter.com/sergiotocalini">
+  <a href="https://twitter.com/sergiotocalini" style="text-decoration:none">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter">
   </a>&nbsp;&nbsp;
-  <a style="text-decoration: none" href="https://linkedin.com/in/sergiotocalinijoerg">
+  <a href="https://linkedin.com/in/sergiotocalinijoerg" style="text-decoration:none">
     <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn">
   </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+	<img width="50%" style="display:block;margin-left:auto;margin-right:auto;"
+		 src="/assets/img/developer.gif" alt="Developer" /> 
 </p>
 
 
@@ -19,10 +25,6 @@
 - 📫 How to reach me: **sergiotocalini@gmail.com**
 - 😄 Pronouns: **he/him/his**
 
-<p align='center'>
-	<img width="50%" style="display:block;margin-left:auto;margin-right:auto;"
-		 src="/assets/img/developer.gif" alt="Developer" /> 
-</p>
 
 <div>
   <a href="https://github.com/sergiotocalini">
